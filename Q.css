@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+h2 {
+  text-align: center;
+  color: #00C5CD;
+}
+
+
+.bar:hover {
+  opacity: 0.8;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 7px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-size: 13px;
+  display: none;
+}
+
+
+
